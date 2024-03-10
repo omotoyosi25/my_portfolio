@@ -11,7 +11,7 @@ export default function Index() {
   return (
     <main className='flex bg-violet-950 h-96'>
         <div className='capitalize space-y-2 mt-16 m-auto'>
-            <h2 className=' text-center text-xs text-slate-500'>hello, i'm abibat</h2>
+            <h2 className=' text-center text-xs text-slate-500'>hello, i&apos;m abibat</h2>
             <h2 className=' text-4xl text-purple-400 font-extrabold'>a fullstack web developer</h2>
             <h2 className='text-center text-sm text-slate-500'>i craft responsive web apps</h2>
         <ul>

@@ -10,7 +10,7 @@ export default function page() {
     <h2 className='tracking-[25px] text-violet-400 text-2xl font-bold text-center mt-10'>Get in touch with me</h2>
     <div className='flex mt-10 items-center space-y-10 flex-col h-screen'>
       <div className=' space-y-10'>
-        <h2 className='uppercase text-4xl font-bold text-violet-400 '>let's work together</h2>
+        <h2 className='uppercase text-4xl font-bold text-violet-400 '>let&apos;s work together</h2>
           <ul>
             <li className="space-x-2 flex justify-center items-center text-xl text-purple-400 ">
             <Link href='https://www.instagram.com/mo_bonike_?igsh=MWt2ZXRmazBpYWl4cA=='>
