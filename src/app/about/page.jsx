@@ -2,6 +2,7 @@ import { Inter } from 'next/font/google'
 import Image from 'next/image'
 const inter =Inter({ subsets: ['latin'] })
 
+
 export default function page() {
   return (
     <main className='bg-slate-400 text-purple-950'>
